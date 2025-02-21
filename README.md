@@ -26,17 +26,12 @@ git clone https://github.com/nkovalchik/Module4_SortedLinkedList.git
 cd Module4_SortedLinkedList
 ```
 
-### 2. Compile the Java Program
+### 2. Run Java Program
 
 ```bash
-javac SortedLinkedList.java
+java SortedLinkedList.java
 ```
 
-### 3. Run the Program
-
-```bash
-java SortedLinkedList
-```
 
 ## Usage
 
