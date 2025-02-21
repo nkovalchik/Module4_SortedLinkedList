@@ -77,8 +77,6 @@ The program consists of the following key components:
 | Mixed positive and negative | `10 -5 3 -2`                 | `[-5, -2, 3, 10]`                                                 |
 | Duplicate numbers           | `3 3 2 1 1`                  | `[1, 1, 2, 3, 3]`                                                 |
 | Single element              | `7`                          | `[7]`                                                             |
-| No input                    | *Press Enter without typing* | *Handles gracefully (may cause exception if not handled in code)* |
-
 ## Generating Documentation
 
 To generate Javadoc documentation run:
