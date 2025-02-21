@@ -63,7 +63,7 @@ Sorted List:
 
 The program consists of the following key components:
 
-Reads user input, converts it into integers sorts them using `Collections.sort()` and prints the sorted list.
+- Reads user input, converts it into integers sorts them using `Collections.sort()` and prints the sorted list.
 Calls `sortALinkedList()` to execute the program logic.
 
 ## Test Cases
