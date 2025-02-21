@@ -63,7 +63,7 @@ Sorted List:
 
 The program consists of the following key components:
 
-- ``: Reads user input, converts it into integers, sorts them using `Collections.sort()`, and prints the sorted list.
+- ``: Reads user input, converts it into integers sorts them using `Collections.sort()` and prints the sorted list.
 - ``: Calls `sortALinkedList()` to execute the program logic.
 
 ## Test Cases
@@ -81,7 +81,7 @@ The program consists of the following key components:
 
 ## Generating Documentation
 
-To generate Javadoc documentation, run:
+To generate Javadoc documentation run:
 
 ```bash
 javadoc -d doc SortedLinkedList.java
@@ -91,7 +91,7 @@ This will create a `doc/` directory containing the HTML documentation.
 
 ## Author
 
-- **Your Name**
+- **Nick Kovalchik**
 
 ## License
 
