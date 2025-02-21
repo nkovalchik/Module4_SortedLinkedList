@@ -22,7 +22,7 @@ This Java program reads a list of space-separated integers from the user, stores
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/nkovalchik/Module4_SortedLinkedList.git>
 cd <repository-folder>
 ```
 
